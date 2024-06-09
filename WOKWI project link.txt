@@ -1,0 +1,35 @@
+https://wokwi.com/projects/400215995117488129===relay-ldr(phtocell)-lm35
+
+https://wokwi.com/projects/400214601342852097===lm35-ralay-vcc-led-wokwi
+
+https://wokwi.com/projects/400216755972664321===lm35-ralay-vcc-led-wokwi(2)
+
+https://wokwi.com/projects/400217367292506113===DHT22-led
+
+https://wokwi.com/projects/400218493369880577====DHT22 PIR(motion) Relay
+
+https://wokwi.com/projects/400226168948790273===dh22-ralay(2)-rip(motion)-les(2)
+
+https://wokwi.com/projects/400227087810763777===kaypad
+
+https://wokwi.com/projects/400228965431983105===DHT22 -3 LED -3lcd
+
+https://wokwi.com/projects/400243481394789377===LCD WITH LM35
+
+https://wokwi.com/projects/400244100955400193==Ldr or photocell with led
+
+https://wokwi.com/projects/400244533303227393====pull-up , pulldown ,potentiometer
+
+https://wokwi.com/projects/400244855685836801===rgb led
+
+https://wokwi.com/projects/400247745525752833===Ultrasonic-LED
+
+
+
+
+
+
+
+
+
+
